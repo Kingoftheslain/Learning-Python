@@ -4,6 +4,7 @@ This repository is for me to upload my progress of learning and tinkering around
 Day 1: Date = March 11th, 2022
 
 I am going to Begin With some simple starting code, just to ensure that the libraries are installed and everything is working correctly.
-Day #: Date = ___
+
+Day #: Date = March ___, 2022
 
 ...
